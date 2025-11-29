@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a9dedd80-5124-4ef0-9538-8d19fe720f07",
+      "database_name": "finmc-bans"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
